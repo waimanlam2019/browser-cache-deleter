@@ -1,0 +1,225 @@
+2024-09-08 13:49:17 INFO  w.main.BrowserCacheDeleter - Current os : mac os x
+2024-09-08 13:49:17 INFO  waimanlam2019.main.browser.MacChrome - Retrieving Mac Chrome cache location.
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Cache
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Cache/Cache_Data
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/index-dir
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Storage
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Storage/ext
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Cache
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Cache/Cache_Data
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/js
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/js/index-dir
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/wasm
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/wasm/index-dir
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Code Cache
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Code Cache/js
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Code Cache/js/index-dir
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Code Cache/wasm
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Google/Chrome/Default/Code Cache/wasm/index-dir
+2024-09-08 13:49:17 INFO  w.main.browser.MacVivaldi - Retrieving Mac Vivaldi cache location.
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/.DS_Store has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/.DS_Store
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Cache
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/0f9ff01d19f77830_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/0f9ff01d19f77830_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/28ecb6c06b02c04d_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/28ecb6c06b02c04d_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/d15b40cd8d1b1c65_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/d15b40cd8d1b1c65_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/07d4310694901df2_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/07d4310694901df2_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/2c4af281cce17262_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/2c4af281cce17262_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/index-dir
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/ff77eaaf5dad7aa0_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/ff77eaaf5dad7aa0_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/f4b3f0861cf1725b_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/f4b3f0861cf1725b_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/c5bf4e0846a8a0f7_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/c5bf4e0846a8a0f7_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/.DS_Store has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/.DS_Store
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/ccca2f7114fb9926_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/ccca2f7114fb9926_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/9e4e762d21f12a6c_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/9e4e762d21f12a6c_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/abe12d4b7cc5fcf4_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/abe12d4b7cc5fcf4_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/93ea7965d7a33f2c_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/93ea7965d7a33f2c_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/b1266e7f10813b3a_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/b1266e7f10813b3a_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/5b357b7a897eaa0b_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/5b357b7a897eaa0b_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/19fe13ed9cd406f2_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/19fe13ed9cd406f2_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/bf4f0ba2f2fa84b7_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/bf4f0ba2f2fa84b7_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/6be6f59aa0c37ec6_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/6be6f59aa0c37ec6_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/6e25d0f79924532a_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/6e25d0f79924532a_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/cfac12e0b98f1767_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/cfac12e0b98f1767_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/fc98f11c13cbbe50_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/fc98f11c13cbbe50_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/e62068c6562a16b0_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/e62068c6562a16b0_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/b55fc6c2d8c279af_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/b55fc6c2d8c279af_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/f291f610530f5e7d_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/f291f610530f5e7d_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/237ec86a54454034_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/237ec86a54454034_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/7e8afbcc405df7c3_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/7e8afbcc405df7c3_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/796aac3ee5f2ac50_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/796aac3ee5f2ac50_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/8e698e3c0468f2fc_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/8e698e3c0468f2fc_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/8ba2f7205e9850fd_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/8ba2f7205e9850fd_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/d6b0b1f37e465278_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/d6b0b1f37e465278_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/0fc4edc1d1ed1fbd_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/0fc4edc1d1ed1fbd_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/033a96c42abcf90b_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/033a96c42abcf90b_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/fea506efc4a19742_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/fea506efc4a19742_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/d58989692d1de248_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/d58989692d1de248_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/2f00d5cbc25824ef_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/2f00d5cbc25824ef_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/cefecac432fea126_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/cefecac432fea126_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/382958bea0c8c295_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/382958bea0c8c295_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/f4c38872a0bd461b_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/f4c38872a0bd461b_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/747cb1da8177ef39_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/747cb1da8177ef39_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/dd2c1cf9d24ba268_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/dd2c1cf9d24ba268_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/ff2df82b59afa5a8_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/ff2df82b59afa5a8_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/7eae9110ba4d3b0d_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/7eae9110ba4d3b0d_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/17736b007d38ca3c_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/17736b007d38ca3c_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/96a0ae1407f247ea_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/96a0ae1407f247ea_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/9ec15d74e36ec635_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/9ec15d74e36ec635_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/b36b2f3e202e0800_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/b36b2f3e202e0800_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/490591ae95c79ae2_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/490591ae95c79ae2_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/0740c480bbd8de7e_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/0740c480bbd8de7e_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/06fdd956e4e43c31_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/06fdd956e4e43c31_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/0f0d426120058bc5_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/0f0d426120058bc5_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/3d641f840f15e443_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/3d641f840f15e443_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/3e1d58fde0bec7a7_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/3e1d58fde0bec7a7_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/3c3903ad7e5acb66_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/3c3903ad7e5acb66_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/a820dd0f6bc7f258_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/a820dd0f6bc7f258_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/f85bd45c4f64a46d_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/f85bd45c4f64a46d_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/b85c6d23d38611cc_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/b85c6d23d38611cc_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/e2804818eda43938_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/e2804818eda43938_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/9cfcd3241730cffc_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/9cfcd3241730cffc_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/86fd97b5f88771ef_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/86fd97b5f88771ef_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/38404f7e26c86ef3_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/38404f7e26c86ef3_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/a0dfba998c1f582f_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/a0dfba998c1f582f_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/af1ead65e70a60c9_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/af1ead65e70a60c9_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/8b49a98e99403a0d_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/8b49a98e99403a0d_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/d788ae481ea91b66_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/d788ae481ea91b66_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/5ad981d232040662_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/5ad981d232040662_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/478ee09c976e30ac_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/478ee09c976e30ac_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/9a1c70a57cd9429b_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/9a1c70a57cd9429b_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/0d48354a44c06cd6_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/0d48354a44c06cd6_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/71ba920f0afe41a6_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/71ba920f0afe41a6_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/512882e0e80ee974_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/512882e0e80ee974_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/cbac839b13fbbe52_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/cbac839b13fbbe52_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/0fe7342f445e57b5_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/0fe7342f445e57b5_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/658d0a121c7cd288_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/658d0a121c7cd288_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/53d03ceca5823f06_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/53d03ceca5823f06_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/7ed6664f610f6663_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/7ed6664f610f6663_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/aefd2b2ddb1d111e_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/aefd2b2ddb1d111e_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/46fd3e182a967bae_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/46fd3e182a967bae_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/2fec2c74a266561f_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/2fec2c74a266561f_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/ffaf73d99981af6b_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/ffaf73d99981af6b_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/ce4f09379110268e_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/ce4f09379110268e_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/7eaf9b6476f52099_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/7eaf9b6476f52099_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/c1032b0a8d309d73_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/c1032b0a8d309d73_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/c8ca5bbe6d1a5ac9_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/c8ca5bbe6d1a5ac9_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/c48eea309dd611bf_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/c48eea309dd611bf_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/8db40d0df297688f_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/8db40d0df297688f_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/e8a1075a3b2e037e_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/e8a1075a3b2e037e_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/74865f077f605b0f_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/74865f077f605b0f_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/b86a30e1dd72decb_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/b86a30e1dd72decb_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - File /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/1c35a0858133403c_0 has lived longer than expected time 300000 milliseconds, deleting
+2024-09-08 13:49:17 INFO  deleter.Deleter - Deleted cache file /Users/raylam/Library/Caches/Vivaldi/Default/Cache/Cache_Data/1c35a0858133403c_0
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Storage
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Storage/ext
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Cache
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Cache/Cache_Data
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Code Cache
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Code Cache/js
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Code Cache/js/index-dir
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Code Cache/wasm
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/Code Cache/wasm/index-dir
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Code Cache
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Code Cache/js
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Code Cache/js/index-dir
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Code Cache/wasm
+2024-09-08 13:49:17 INFO  deleter.Deleter - Loading files from folder /Users/raylam/Library/Caches/Vivaldi/Default/Code Cache/wasm/index-dir
