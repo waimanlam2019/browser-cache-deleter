@@ -2,3 +2,4 @@
 .project
 .settings/
 target/
+scripts/browser-cache-deleter.log
