@@ -1,7 +1,7 @@
 @echo off
 
 :: Define the path to the JAR file
-set JAR_PATH=C:\Users\USER\eclipse-workspace\browser-cache-deleter\target\browser-cache-deleter-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+set JAR_PATH=C:\Users\USER\eclipse-workspace\browser-cache-deleter\target\browser-cache-deleter-0.0.2-SNAPSHOT-jar-with-dependencies.jar
 
 :: Run the JAR file with the main class
 java -jar "%JAR_PATH%"
