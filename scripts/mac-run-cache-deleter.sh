@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the path to the JAR file
-JAR_PATH="/Users/raylam/eclipse-workspace-new/browser-cache-deleter/target/browser-cache-deleter-0.0.3-SNAPSHOT-jar-with-dependencies.jar"
+JAR_PATH="/Users/raylam/eclipse-workspace-new/browser-cache-deleter/target/browser-cache-deleter-0.0.4-SNAPSHOT-jar-with-dependencies.jar"
 
 # Run the JAR file with the main class
 java -jar "$JAR_PATH"
