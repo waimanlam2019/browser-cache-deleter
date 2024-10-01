@@ -1,7 +1,9 @@
 package deleter;
 
 import java.io.File;
+import java.io.IOException;
 
+import org.apache.tika.Tika;
 import org.slf4j.LoggerFactory;
 
 import util.PropertyLoader;
@@ -28,18 +30,37 @@ public class Deleter {
 			logger.debug("Checking file {}", file.getName());
 			if ( file.isDirectory() ) {
 				deleteCacheFromFolder(file.getAbsolutePath());
-			}else {
-				if (System.currentTimeMillis() -  file.lastModified() > fileLiveTimeInMilliSeconds) {
-					logger.info("File {} has lived longer than expected time {} milliseconds, deleting", file.getAbsolutePath(), fileLiveTimeInMilliSeconds);
-					boolean deleted = file.delete();
-					if ( deleted ) {
-						logger.info("Deleted cache file {}", file.getAbsolutePath());
-					}else {
-						logger.info("Cannot delete cache file {}", file.getAbsolutePath());
-					}
+			}else if (isRelatedFile(file) && fileIsOldEnough(file)){				
+				logger.info("File {} has lived longer than expected time {} milliseconds, deleting", file.getAbsolutePath(), fileLiveTimeInMilliSeconds);
+				boolean deleted = file.delete();
+				if ( deleted ) {
+					logger.info("Deleted cache file {}", file.getAbsolutePath());
+				}else {
+					logger.info("Cannot delete cache file {}", file.getAbsolutePath());
 				}
+				
 			}
 		}
 		
+	}
+	
+	private boolean isRelatedFile(File file) {
+		Tika tika = new Tika();
+        String mimeType;
+		try {
+			mimeType = tika.detect(file);
+		} catch (IOException e) {
+			logger.error("Error in checking file extension", e);
+			return false;
+		}
+        
+        logger.info("Detected MIME type: " + mimeType);
+
+        // Check if MIME type is related to images or videos
+        return mimeType.startsWith("image/") || mimeType.startsWith("video/");
+	}
+	
+	private boolean fileIsOldEnough(File file) {
+		return System.currentTimeMillis() -  file.lastModified() > fileLiveTimeInMilliSeconds;
 	}
 }
