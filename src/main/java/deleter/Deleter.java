@@ -54,10 +54,10 @@ public class Deleter {
 			return false;
 		}
         
-        logger.info("Detected MIME type: " + mimeType);
+        logger.info("File: {} , Detected MIME type: {}", file.getName(), mimeType);
 
         // Check if MIME type is related to images or videos
-        return mimeType.startsWith("image/") || mimeType.startsWith("video/");
+        return mimeType.startsWith("image/") || mimeType.startsWith("video/") || mimeType.startsWith("application/octet-stream");
 	}
 	
 	private boolean fileIsOldEnough(File file) {
